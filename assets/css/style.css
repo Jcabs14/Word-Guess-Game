@@ -1,0 +1,58 @@
+body{
+    height: 100%;
+    width:100%;
+    background-color: black;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.fontColor{
+    color:yellow;
+}
+
+.wordLength{
+border: 3px solid yellow;
+font-size: 50px;
+color:white;
+text-align: center;
+margin: 50px auto;
+height: 150px;
+width: 80%;
+}
+
+.rightGuess{
+    border: 3px solid yellow;
+    font-size: 20px;
+    text-align: center;
+    height: 100px;
+    width: 80%;
+    color:white;
+    }
+
+.wrongGuess{
+border: 3px solid yellow;
+font-size: 20px;
+text-align: center;
+height: 100px;
+width: 80%;
+color:white;
+        }
+
+.numberOfGuess{
+border: 3px solid yellow;
+font-size: 20px;
+text-align: center;
+margin: 50px auto;
+height: 100px;
+width: 80%;
+color:white;
+            }
+
+            
+
+        
